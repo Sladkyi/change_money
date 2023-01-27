@@ -1,41 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42ea0325-7b05-4913-b688-535e55bae138" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chan_app/chan_app/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/dvg/frontend/router.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chan_app/chan_app/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chan_app/chan_app/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chan_app/chan_app/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chan_app/chan_app/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chan_app/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chan_app/frontend/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chan_app/frontend/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chan_app/frontend/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chan_app/frontend/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chan_app/frontend/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chan_app/frontend/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chan_app/frontend/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chan_app/frontend/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chan_app/frontend/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chan_app/frontend/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chan_app/frontend/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chan_app/frontend/src/App.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chan_app/frontend/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chan_app/frontend/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chan_app/frontend/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chan_app/frontend/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chan_app/frontend/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chan_app/frontend/src/modules/Content.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chan_app/frontend/src/modules/Footer.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chan_app/frontend/src/modules/Header.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chan_app/frontend/src/modules/content.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chan_app/frontend/src/only.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chan_app/frontend/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chan_app/frontend/src/setupTests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chan_app/manage.py" beforeDir="false" />
-    </list>
+    <list default="true" id="42ea0325-7b05-4913-b688-535e55bae138" name="Changes" comment="шщо" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +23,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "app.teamhub.trackedBranches": "1m6p9fh/main",
+    "last_opened_file_path": "C:/Users/eurcz/Documents/GitHub/change_money",
     "settings.editor.selected.configurable": "preferences.pluginManager"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
+    ]
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -69,6 +41,14 @@
       <option name="presentableId" value="Default" />
       <updated>1674665945815</updated>
     </task>
+    <task id="LOCAL-00001" summary="шщо">
+      <created>1674812188404</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674812188404</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,5 +61,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="шщо" />
+    <option name="LAST_COMMIT_MESSAGE" value="шщо" />
   </component>
 </project>
