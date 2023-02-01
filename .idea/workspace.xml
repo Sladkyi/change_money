@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42ea0325-7b05-4913-b688-535e55bae138" name="Changes" comment="шщо" />
+    <list default="true" id="42ea0325-7b05-4913-b688-535e55bae138" name="Changes" comment="шщо">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dvg/backend/backend/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dvg/backend/backend/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dvg/backend/backend/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dvg/backend/backend/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dvg/backend/backend/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dvg/backend/change_coins/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dvg/backend/change_coins/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dvg/backend/change_coins/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dvg/backend/change_coins/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dvg/backend/change_coins/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dvg/backend/change_coins/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dvg/backend/change_coins/schema.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dvg/backend/change_coins/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dvg/backend/change_coins/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dvg/backend/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dvg/backend/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dvg/frontend/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/dvg/frontend/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dvg/frontend/src/assets/only.css" beforeDir="false" afterPath="$PROJECT_DIR$/dvg/frontend/src/assets/only.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dvg/frontend/src/components/content.vue" beforeDir="false" afterPath="$PROJECT_DIR$/dvg/frontend/src/components/content.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dvg/frontend/src/components/footer.vue" beforeDir="false" afterPath="$PROJECT_DIR$/dvg/frontend/src/components/footer.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dvg/frontend/src/components/header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/dvg/frontend/src/components/header.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dvg/frontend/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/dvg/frontend/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dvg/frontend/src/views/HomeView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/dvg/frontend/src/views/HomeView.vue" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,20 +43,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "app.teamhub.trackedBranches": "1m6p9fh/main",
-    "last_opened_file_path": "C:/Users/eurcz/Documents/GitHub/change_money",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;app.teamhub.trackedBranches&quot;: &quot;1m6p9fh/main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/eurcz/Documents/GitHub/change_money&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
