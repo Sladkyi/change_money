@@ -3,29 +3,23 @@
   <component name="ChangeListManager">
     <list default="true" id="42ea0325-7b05-4913-b688-535e55bae138" name="Changes" comment="шщо">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dvg/backend/backend/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dvg/backend/backend/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dvg/backend/backend/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dvg/backend/backend/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dvg/backend/backend/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dvg/backend/change_coins/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dvg/backend/change_coins/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dvg/backend/change_coins/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dvg/backend/change_coins/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dvg/backend/change_coins/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dvg/backend/change_coins/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dvg/backend/change_coins/schema.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dvg/backend/change_coins/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dvg/backend/change_coins/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dvg/backend/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dvg/backend/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dvg/frontend/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/dvg/frontend/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dvg/ccns/ccns/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dvg/ccns/ccns/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/dvg/ccns/ccns/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dvg/ccns/change/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/dvg/ccns/change/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dvg/ccns/change/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/dvg/ccns/change/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dvg/ccns/change/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/dvg/ccns/change/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dvg/ccns/change/migrations/0002_alter_profile_options_message.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dvg/ccns/change/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/dvg/ccns/change/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dvg/ccns/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/dvg/ccns/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dvg/frontend/src/assets/only.css" beforeDir="false" afterPath="$PROJECT_DIR$/dvg/frontend/src/assets/only.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dvg/frontend/src/assets/only.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/dvg/frontend/src/assets/only.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dvg/frontend/src/assets/only.scss" beforeDir="false" afterPath="$PROJECT_DIR$/dvg/frontend/src/assets/only.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dvg/frontend/src/components/content.vue" beforeDir="false" afterPath="$PROJECT_DIR$/dvg/frontend/src/components/content.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dvg/frontend/src/components/footer.vue" beforeDir="false" afterPath="$PROJECT_DIR$/dvg/frontend/src/components/footer.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dvg/frontend/src/components/header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/dvg/frontend/src/components/header.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dvg/frontend/src/components/register.vue" beforeDir="false" afterPath="$PROJECT_DIR$/dvg/frontend/src/components/register.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dvg/frontend/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/dvg/frontend/src/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dvg/frontend/src/views/HomeView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/dvg/frontend/src/views/HomeView.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dvg/pip-requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dvg/pip-requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +28,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -48,7 +43,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;app.teamhub.trackedBranches&quot;: &quot;1m6p9fh/main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/eurcz/Documents/GitHub/change_money&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/eurcz/test&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -73,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674812188404</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="шщо">
+      <created>1675247686553</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675247686553</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
